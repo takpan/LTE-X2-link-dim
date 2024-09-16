@@ -229,34 +229,3 @@ int digitsAfterDecimalPoint(QVariant value)
 
     return i;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
